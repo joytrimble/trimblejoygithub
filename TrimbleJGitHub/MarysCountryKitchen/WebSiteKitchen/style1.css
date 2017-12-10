@@ -1,0 +1,754 @@
+@charset "UTF-8";
+
+a:link {
+	color: #000000;
+	text-decoration: none;}
+a:visited {
+	color: #000000;
+}
+a:hover {
+	color: #993300;
+	text-decoration: none;
+	}
+a:active {
+	color: #993300;
+}
+
+.logo_png {
+  background-image: url("mcchome-assets/logo.png");
+  position: absolute;
+  left: 96px;
+  top: 30px;
+  width: 213px;
+  height: 97px;
+  z-index: 79;
+}
+.contact {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 153, 51);
+	text-decoration: none;
+  font-weight: 100;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 965px;
+  top: 103px;
+  width: 112px;
+  height: 17px;
+  z-index: 78;
+}
+.about {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 153, 51);
+  font-weight: 100;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 860px;
+  top: 103px;
+  width: 83px;
+  height: 17px;
+  z-index: 77;
+	
+
+}
+.menu {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 153, 51);
+  font-weight: 100;
+  line-height: 1.125;
+  position: absolute;
+  left: 775px;
+  top: 103px;
+  width: 67px;
+  height: 17px;
+  z-index: 76;
+}
+.home {
+  font-size: 24px;
+  font-family: "Arial";
+  color: #ff9933;
+  font-weight: 100;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 680px;
+  top: 103px;
+  width: 69px;
+  height: 17px;
+  z-index: 75;
+}
+.twitter_png {
+  background-image: url("mcchome-assets/twitter.png");
+  position: absolute;
+  left: 1042px;
+  top: 47px;
+  width: 40px;
+  height: 32px;
+  z-index: 74;
+}
+.instagram_png {
+  background-image: url("mcchome-assets/instagram.png");
+  position: absolute;
+  left: 985px;
+  top: 47px;
+  width: 35px;
+  height: 35px;
+  z-index: 73;
+}
+.facebook_png {
+  background-image: url("mcchome-assets/facebook.png");
+  position: absolute;
+  left: 934px;
+  top: 47px;
+  width: 16px;
+  height: 35px;
+  z-index: 72;
+}
+.twitterhover_png {
+  background-image: url("mcchome-assets/twitterhover.png");
+  position: absolute;
+  left: 1042px;
+  top: 47px;
+  width: 40px;
+  height: 32px;
+  z-index: 84;
+}
+.instagramhover_png {
+  background-image: url("mcchome-assets/instagramhover.png");
+  position: absolute;
+  left: 985px;
+  top: 46px;
+  width: 35px;
+  height: 35px;
+  z-index: 82;
+}
+.facebookhover_png {
+  background-image: url("mcchome-assets/facebookhover.png");
+  position: absolute;
+  left: 934px;
+  top: 47px;
+  width: 16px;
+  height: 35px;
+  z-index: 80;
+}
+.reservehover1_jpg {
+  background-image: url("mcchome-assets/reservehover1.jpg");
+  position: absolute;
+  left: 600px;
+  top: 43px;
+  width: 193px;
+  height: 35px;
+  z-index: 75;
+}
+.reserveh1_jpg {
+  background-image: url("mcchome-assets/reserveh1.jpg");
+  position: absolute;
+  left: 680px;
+  top: 43px;
+  width: 193px;
+  height: 35px;
+  z-index: 74;
+}
+
+.mainphoto_jpg {
+  background-image: url("homepage-assets/mainphoto.jpg");
+  position: absolute;
+  left: 0px;
+  top: 152px;
+  width: 1200px;
+  height: 653px;
+  z-index: 41;
+}
+.menutitle {
+  font-size: 60px;
+  font-family: "arialregular";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 513px;
+  top: 842.511px;
+  width: 168px;
+  height: 44px;
+  z-index: 38;
+}
+.breakfasthover_jpg {
+  background-image: url("homepage-assets/breakfasthover.jpg");
+  position: absolute;
+  left: 102px;
+  top: 929px;
+  width: 289px;
+  height: 289px;
+  z-index: 37;
+}
+.breakfast_jpg {
+  background-image: url("homepage-assets/breakfast.jpg");
+  position: absolute;
+  left: 102px;
+  top: 929px;
+  width: 289px;
+  height: 289px;
+  z-index: 36;
+}
+.lunchhover_jpg {
+  background-image: url("homepage-assets/lunchhover.jpg");
+  position: absolute;
+  left: 456px;
+  top: 929px;
+  width: 289px;
+  height: 289px;
+  z-index: 35;
+}
+.lunch_jpg {
+  background-image: url("homepage-assets/lunch.jpg");
+  position: absolute;
+  left: 456px;
+  top: 929px;
+  width: 289px;
+  height: 289px;
+  z-index: 34;
+}
+.desserthover_jpg {
+  background-image: url("homepage-assets/desserthover.jpg");
+  position: absolute;
+  left: 810px;
+  top: 927px;
+  width: 291px;
+  height: 291px;
+  z-index: 33;
+}
+.dessert_jpg {
+  background-image: url("homepage-assets/dessert.jpg");
+  position: absolute;
+  left: 810px;
+  top: 927px;
+  width: 291px;
+  height: 291px;
+  z-index: 32;
+}
+.sideshover_jpg {
+  background-image: url("homepage-assets/sideshover.jpg");
+  position: absolute;
+  left: 104px;
+  top: 1288px;
+  width: 289px;
+  height: 289px;
+  z-index: 31;
+}
+.sides_jpg {
+  background-image: url("homepage-assets/sides.jpg");
+  position: absolute;
+  left: 104px;
+  top: 1288px;
+  width: 289px;
+  height: 289px;
+  z-index: 30;
+}
+.beveragehover_jpg {
+  background-image: url("homepage-assets/beveragehover.jpg");
+  position: absolute;
+  left: 458px;
+  top: 1288px;
+  width: 289px;
+  height: 289px;
+  z-index: 29;
+}
+.beverages_jpg {
+  background-image: url("homepage-assets/beverages.jpg");
+  position: absolute;
+  left: 458px;
+  top: 1288px;
+  width: 289px;
+  height: 289px;
+  z-index: 28;
+}
+.kidshover_jpg {
+  background-image: url("homepage-assets/kidshover.jpg");
+  position: absolute;
+  left: 812px;
+  top: 1288px;
+  width: 289px;
+  height: 289px;
+  z-index: 27;
+}
+.kids_jpg {
+  background-image: url("homepage-assets/kids.jpg");
+  position: absolute;
+  left: 812px;
+  top: 1288px;
+  width: 289px;
+  height: 289px;
+  z-index: 26;
+}
+.abouttitle {
+  font-size: 60px;
+  font-family: "arialregular";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 495px;
+  top: 1661.511px;
+  width: 207px;
+  height: 45px;
+  z-index: 23;
+}
+.stafftitle {
+  font-size: 36px;
+  font-family: "arialregular";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 561px;
+  top: 2287.106px;
+  width: 109px;
+  height: 26px;
+  z-index: 22;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 18px;
+  font-family: "arialregular";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 684.069px;
+  top: 1726.486px;
+  width: 425.55px;
+  height: 535.666px;
+  z-index: 21;
+}
+.historyhover_jpg {
+  background-image: url("homepage-assets/historyhover.jpg");
+  position: absolute;
+  left: 103px;
+  top: 1747px;
+  width: 492px;
+  height: 516px;
+  z-index: 20;
+}
+.history_jpg {
+  background-image: url("homepage-assets/history.jpg");
+  position: absolute;
+  left: 103px;
+  top: 1747px;
+  width: 492px;
+  height: 516px;
+  z-index: 19;
+}
+.ownerhover_jpg {
+  background-image: url("homepage-assets/ownerhover.jpg");
+  position: absolute;
+  left: 98px;
+  top: 2349px;
+  width: 289px;
+  height: 289px;
+  z-index: 18;
+}
+.owner_jpg {
+  background-image: url("homepage-assets/owner.jpg");
+  position: absolute;
+  left: 98px;
+  top: 2349px;
+  width: 289px;
+  height: 289px;
+  z-index: 17;
+}
+
+.chefhover_jpg {
+  background-image: url("mcchome-assets/chefhover.jpg");
+  position: absolute;
+  left: 459px;
+  top: 2349px;
+  width: 289px;
+  height: 289px;
+  z-index: 39;
+}
+.chef_jpg {
+  background-image: url("mcchome-assets/chef.jpg");
+  position: absolute;
+  left: 459px;
+  top: 2349px;
+  width: 289px;
+  height: 289px;
+  z-index: 38;
+}
+
+.managerhover_jpg {
+  background-image: url("homepage-assets/managerhover.jpg");
+  position: absolute;
+  left: 814px;
+  top: 2351px;
+  width: 287px;
+  height: 287px;
+  z-index: 13;
+}
+.manager_jpg {
+  background-image: url("homepage-assets/manager.jpg");
+  position: absolute;
+  left: 814px;
+  top: 2351px;
+  width: 287px;
+  height: 287px;
+  z-index: 12;
+}
+.contacttitle {
+  font-size: 60px;
+  font-family: "Arial";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 460px;
+  top: 2726.511px;
+  width: 281px;
+  height: 45px;
+  z-index: 31;
+}
+
+.reservefhover2 {
+  background-image: url("reservefhover2.png");
+  position: absolute;
+  left: 387px;
+  top: 3363px;
+  width: 193px;
+  height: 35px;
+  z-index: 37;
+}
+.reservef2_jpg {
+  background-image: url("mcchome-assets/reservef2.jpg");
+  position: absolute;
+  left: 387px;
+  top: 3363px;
+  width: 193px;
+  height: 35px;
+  z-index: 36;
+}
+
+.diner_jpg {
+  background-image: url("mcchome-assets/diner.jpg");
+  position: absolute;
+  left: -1px;
+  top: 2809px;
+  width: 600px;
+  height: 600px;
+  z-index: 32;
+}
+
+.form {
+	font-family: "arial";
+	font-size: 24px;
+	line-height: 1.125;
+	top: 2810px;
+	left: 731px;
+	position:absolute;
+	color: #993300;
+	width:328px;
+}
+.firstnameform {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(153, 51, 0);
+  line-height: 1.125;
+  position: absolute;
+  left: 731px;
+  top: 2810.748px;
+  width: 328px;
+  height: 18px;
+  z-index: 30;
+}
+
+.firstnamebox_jpg {
+  border-width: 3px;
+  border-color: rgb(204, 204, 204);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 731px;
+  top: 2840px;
+  width: 328px;
+  height: 38px;
+  z-index: 25;
+}
+.lastnameform{
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(153, 51, 0);
+  line-height: 1.125;
+  position: absolute;
+  left: 731px;
+  top: 2900px;
+  width: 328px;
+  height: 18px;
+  z-index: 29;
+}
+
+.lastnamebox_jpg {
+  border-width: 3px;
+  border-color: rgb(204, 204, 204);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 731px;
+  top: 2928px;
+  width: 328px;
+  height: 38px;
+  z-index: 24;
+}
+
+.phonenumberform {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(153, 51, 0);
+  line-height: 1.125;
+  position: absolute;
+  left: 731px;
+  top: 2987px;
+  width: 328px;
+  height: 17px;
+  z-index: 28;
+	
+}
+.phonebox_jpg {
+  border-width: 3px;
+  border-color: rgb(204, 204, 204);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 731px;
+  top: 3013px;
+  width: 328px;
+  height: 38px;
+  z-index: 21;
+}
+	
+
+.emailform {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(153, 51, 0);
+  line-height: 1.125;
+  position: absolute;
+  left: 731px;
+  top: 3077px;
+  width: 328px;
+  height: 17px;
+  z-index: 27;
+}
+
+.emailbox_jpg {
+  border-width: 3px;
+  border-color: rgb(204, 204, 204);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 731px;
+  top: 3104px;
+  width: 328px;
+  height: 38px;
+  z-index: 22;
+}
+
+
+.questionsform {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(153, 51, 0);
+  line-height: 1.125;
+  position: absolute;
+  left: 731px;
+  top: 3168px;
+  width: 328px;
+  height: 19px;
+  z-index: 26;
+}
+
+.questionsbox_jpg {
+  border-width: 3px;
+  border-color: rgb(204, 204, 204);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 731px;
+  top: 3194px;
+  width: 328px;
+  height: 148px;
+  z-index: 23;
+}
+
+
+.submit_jpg {
+  background-image: url("mcchome-assets/submit.jpg");
+  position: absolute;
+  left: 731px;
+  top: 3363px;
+  width: 216px;
+  height: 44px;
+  z-index: 20;
+}
+.homewhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 118px;
+  top: 3540px;
+  width: 47px;
+  height: 13px;
+  z-index: 17;
+}
+.menuwhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 118px;
+  top: 3563px;
+  width: 44px;
+  height: 13px;
+  z-index: 16;
+}
+.aboutwhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 118px;
+  top: 3585px;
+  width: 48px;
+  height: 13px;
+  z-index: 15;
+}
+
+.contactuswhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 118px;
+  top: 3630px;
+  width: 88px;
+  height: 13px;
+  z-index: 14;
+}
+.employmentwhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 118px;
+  top: 3607px;
+  width: 100px;
+  height: 17px;
+  z-index: 13;
+}
+._111_5th_Avenue_South_Nashville__TN_37203__555__ {
+  font-size: 18px;
+  font-family: "Arial";
+  color: #000000;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 828.263px;
+  top: 3540px;
+  width: 250px;
+  height: 104px;
+  z-index: 12;
+}
+.whitelogo_png {
+  background-image: url("mcchome-assets/whitelogo.png");
+  position: absolute;
+  left: 524px;
+  top: 3540px;
+  width: 150px;
+  height: 101px;
+  z-index: 11;
+}
+._©_Mary_s_Country_Kitchen_2017__All_Rights_Rese {
+  font-size: 12px;
+  font-family: "Arial";
+  color: #000000;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 115.666px;
+  top: 3683.874px;
+  width: 278px;
+  height: 11px;
+  z-index: 10;
+}
+.twitterwhite_png {
+  background-image: url("mcchome-assets/twitterwhite.png");
+  position: absolute;
+  left: 628px;
+  top: 3664px;
+  width: 37px;
+  height: 30px;
+  z-index: 9;
+}
+.instagramwhite_png {
+  background-image: url("mcchome-assets/instagramwhite.png");
+  position: absolute;
+  left: 542px;
+  top: 3664px;
+  width: 30px;
+  height: 31px;
+  z-index: 8;
+}
+.facebookwhite_png {
+  background-image: url("mcchome-assets/facebookwhite.png");
+  position: absolute;
+  left: 593px;
+  top: 3664px;
+  width: 14px;
+  height: 30px;
+  z-index: 7;
+}
+
+.twitterwhitehover_png {
+  background-image: url("mcchome-assets/twitterwhitehover.png");
+  position: absolute;
+  left: 628px;
+  top: 3664px;
+  width: 37px;
+  height: 30px;
+  z-index: 12;
+}
+.facebookwhitehover_png {
+  background-image: url("mcchome-assets/facebookwhitehover.png");
+  position: absolute;
+  left: 593px;
+  top: 3664px;
+  width: 14px;
+  height: 30px;
+  z-index: 10;
+}
+.instagramwhitehover_png {
+  background-image: url("mcchome-assets/instagramwhitehover.png");
+  position: absolute;
+  left: 542px;
+  top: 3664px;
+  width: 30px;
+  height: 31px;
+  z-index: 11;
+}
+
+.orangefooter_png {
+  background-image: url("mcchome-assets/orangefooter.png");
+  position: absolute;
+  left: 0px;
+  top: 3509px;
+  width: 1200px;
+  height: 200px;
+  z-index: 6;
+}

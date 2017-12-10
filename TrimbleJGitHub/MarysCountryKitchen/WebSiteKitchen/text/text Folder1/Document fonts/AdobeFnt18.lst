@@ -1,0 +1,73 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:\Arial.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:773236
+FileModTime:1470520124
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KhmerMN
+FamilyName:Khmer MN
+StyleName:Regular
+MenuName:Khmer MN
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Khmer MN
+WritingScript:Roman
+OutlineFileName:\Khmer MN.ttc
+TTCOffset:32
+DataFormat:sfntData
+hasSVG:no
+FileLength:436596
+FileModTime:1469893686
+NameArray:0,Mac,18,Khmer MN
+NameArray:0,Mac,4,Khmer MN
+NameArray:0,Win,1,Khmer MN
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KhmerMN-Bold
+FamilyName:Khmer MN
+StyleName:Bold
+MenuName:Khmer MN
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Khmer MN Bold
+WritingScript:Roman
+OutlineFileName:\Khmer MN.ttc
+TTCOffset:300
+DataFormat:sfntData
+hasSVG:no
+FileLength:436596
+FileModTime:1469893686
+NameArray:0,Mac,18,Khmer MN Bold
+NameArray:0,Mac,4,Khmer MN Bold
+NameArray:0,Win,1,Khmer MN
+%EndFont
+

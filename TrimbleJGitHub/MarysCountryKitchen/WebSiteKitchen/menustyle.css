@@ -1,0 +1,553 @@
+@charset "UTF-8";
+
+
+a:link {
+	color: #000000;
+	text-decoration: none;}
+a:visited {
+	color: #000000;
+}
+a:hover {
+	color: #993300;
+	text-decoration: none;
+	}
+a:active {
+	color: #993300;
+}
+
+.twitterhover_png {
+  background-image: url("mccmenu-assets/twitterhover.png");
+  position: absolute;
+  left: 1057px;
+  top: 40px;
+  width: 40px;
+  height: 32px;
+  z-index: 62;
+}
+.twitter_png {
+  background-image: url("mccmenu-assets/twitter.png");
+  position: absolute;
+  left: 1057px;
+  top: 40px;
+  width: 40px;
+  height: 32px;
+  z-index: 61;
+}
+.instagramhover_png {
+  background-image: url("mccmenu-assets/instagramhover.png");
+  position: absolute;
+  left: 1003px;
+  top: 38px;
+  width: 35px;
+  height: 35px;
+  z-index: 60;
+}
+.instagram_png {
+  background-image: url("mccmenu-assets/instagram.png");
+  position: absolute;
+  left: 1003px;
+  top: 38px;
+  width: 35px;
+  height: 35px;
+  z-index: 59;
+}
+
+.facebook_png {
+  background-image: url("mccmenu-assets/facebook.png");
+  position: absolute;
+  left: 954px;
+  top: 40px;
+  width: 16px;
+  height: 35px;
+  z-index: 57;
+}
+
+.reservehover3_jpg {
+  background-image: url("mccmenu-assets/reservehover3.jpg");
+  position: absolute;
+  left: 732px;
+  top: 37px;
+  width: 193px;
+  height: 35px;
+  z-index: 56;
+}
+.reserve1_jpg {
+  background-image: url("mccmenu-assets/reserve1.jpg");
+  position: absolute;
+  left: 731px;
+  top: 37px;
+  width: 193px;
+  height: 35px;
+  z-index: 51;
+}
+
+
+.breaktext_png {
+  font-size: 15.552px;
+  font-family: "Arial";
+  color: rgb(128, 128, 128);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 107.824px;
+  top: 327.864px;
+  width: 518.301px;
+  height: 366.597px;
+  z-index: 42;
+}
+
+.lunchtxt_png {
+  font-size: 15.552px;
+  font-family: "Arial";
+  color: rgb(102, 102, 102);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 104.887px;
+  top: 924.868px;
+  width: 516.175px;
+  height: 383.588px;
+  z-index: 37;
+}
+
+.kidsfoodtxt_png {
+  font-size: 15.552px;
+  font-family: "Arial";
+  color: rgb(102, 102, 102);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 108.887px;
+  top: 2161.868px;
+  width: 516.175px;
+  height: 383.588px;
+  z-index: 27;
+}
+
+.sidestxt_png {
+  font-size: 23.328px;
+  font-family: "Arial";
+  color: rgb(102, 102, 102);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 108.998px;
+  top: 2808.269px;
+  width: 516.003px;
+  height: 423.752px;
+  z-index: 22;
+}
+
+.beveragestxt_png {
+  font-size: 15.552px;
+  font-family: "Arial";
+  color: rgb(102, 102, 102);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 107.939px;
+  top: 3402.959px;
+  width: 663.072px;
+  height: 454.406px;
+  z-index: 17;
+}
+
+.desserttxt_png {
+  font-size: 15.552px;
+  font-family: "Arial";
+  color: rgb(102, 102, 102);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 111.888px;
+  top: 1546.868px;
+  width: 516.174px;
+  height: 383.588px;
+  z-index: 32;
+}
+
+
+.logo_png {
+  background-image: url("mcchome-assets/logo.png");
+  position: absolute;
+  left: 96px;
+  top: 30px;
+  width: 213px;
+  height: 97px;
+  z-index: 79;
+}
+.contact {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 153, 51);
+	text-decoration: none;
+  font-weight: 100;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 965px;
+  top: 103px;
+  width: 112px;
+  height: 17px;
+  z-index: 78;
+}
+.about {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 153, 51);
+  font-weight: 100;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 860px;
+  top: 103px;
+  width: 83px;
+  height: 17px;
+  z-index: 77;
+	
+
+}
+.menu {
+  font-size: 24px;
+  font-family: "Arial";
+  color: rgb(255, 153, 51);
+  font-weight: 100;
+  line-height: 1.125;
+  position: absolute;
+  left: 775px;
+  top: 103px;
+  width: 67px;
+  height: 17px;
+  z-index: 76;
+}
+.home {
+  font-size: 24px;
+  font-family: "Arial";
+  color: #ff9933;
+  font-weight: 100;
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 680px;
+  top: 103px;
+  width: 69px;
+  height: 17px;
+  z-index: 75;
+}
+
+.instagram_png {
+  background-image: url("mcchome-assets/instagram.png");
+  position: absolute;
+  left: 985px;
+  top: 47px;
+  width: 35px;
+  height: 35px;
+  z-index: 73;
+}
+
+.waffles_jpg {
+  background-image: url("mccmenu-assets/waffles.jpg");
+  position: absolute;
+  left: 708px;
+  top: 336px;
+  width: 423px;
+  height: 350px;
+  z-index: 44;
+}
+.breakfast {
+  font-size: 60px;
+  font-family: "Arial";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 427px;
+  top: 187px;
+  width: 349px;
+  height: 45px;
+  z-index: 43;
+}
+
+.lunch {
+  font-size: 60px;
+  font-family: "Arial";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 500px;
+  top: 782.511px;
+  width: 198px;
+  height: 45px;
+  z-index: 39;
+}
+.hamburger_jpg {
+  background-image: url("mccmenu-assets/hamburger.jpg");
+  position: absolute;
+  left: 708px;
+  top: 933px;
+  width: 425px;
+  height: 353px;
+  z-index: 38;
+}
+
+.dessert {
+  font-size: 60px;
+  font-family: "Arial";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 463px;
+  top: 1399.511px;
+  width: 278px;
+  height: 45px;
+  z-index: 34;
+}
+.pies_jpg {
+  background-image: url("mccmenu-assets/pies.jpg");
+  position: absolute;
+  left: 709px;
+  top: 1563px;
+  width: 424px;
+  height: 352px;
+  z-index: 33;
+}
+.kidsmenu {
+  font-size: 60px;
+  font-family: "Arial";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 534px;
+  top: 2018.511px;
+  width: 325px;
+  height: 45px;
+  z-index: 29;
+}
+.sucker_jpg {
+  background-image: url("mccmenu-assets/sucker.jpg");
+  position: absolute;
+  left: 709px;
+  top: 2177px;
+  width: 425px;
+  height: 353px;
+  z-index: 28;
+}
+
+.sides {
+  font-size: 60px;
+  font-family: "Arial";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 512px;
+  top: 2633.511px;
+  width: 175px;
+  height: 45px;
+  z-index: 24;
+}
+.okra_jpg {
+  background-image: url("mccmenu-assets/okra.jpg");
+  position: absolute;
+  left: 708px;
+  top: 2810px;
+  width: 423px;
+  height: 351px;
+  z-index: 23;
+}
+
+.coffee_jpg {
+  background-image: url("mccmenu-assets/coffee.jpg");
+  position: absolute;
+  left: 807px;
+  top: 3440px;
+  width: 324px;
+  height: 417px;
+  z-index: 19;
+}
+.beverages {
+  font-size: 60px;
+  font-family: "Arial";
+  color: rgb(142, 40, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 419px;
+  top: 3287.511px;
+  width: 363px;
+  height: 45px;
+  z-index: 18;
+}
+
+.homewhite_ {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 119px;
+  top: 3995px;
+  width: 47px;
+  height: 13px;
+  z-index: 14;
+}
+.menuwhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 119px;
+  top: 4018px;
+  width: 44px;
+  height: 13px;
+  z-index: 13;
+}
+.aboutwhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 119.114px;
+  top: 4040px;
+  width: 48px;
+  height: 13px;
+  z-index: 12;
+}
+.contactuswhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 119px;
+  top: 4083px;
+  width: 88px;
+  height: 13px;
+  z-index: 11;
+}
+.employmentwhite {
+  font-size: 18px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: absolute;
+  left: 119px;
+  top: 4061px;
+  width: 100px;
+  height: 17px;
+  z-index: 10;
+}
+.twitterwhite_png {
+  background-image: url("mccmenu-assets/twitterwhite.png");
+  position: absolute;
+  left: 629px;
+  top: 4115px;
+  width: 37px;
+  height: 30px;
+  z-index: 9;
+}
+.instagramwhite_png {
+  background-image: url("mccmenu-assets/instagramwhite.png");
+  position: absolute;
+  left: 543px;
+  top: 4115px;
+  width: 30px;
+  height: 31px;
+  z-index: 8;
+}
+.facebookwhite_png {
+  background-image: url("mccmenu-assets/facebookwhite.png");
+  position: absolute;
+  left: 594px;
+  top: 4115px;
+  width: 14px;
+  height: 30px;
+  z-index: 7;
+}
+.address {
+  font-size: 18px;
+  font-family: "Arial";
+  color: #000000;
+  line-height: 1.2;
+  text-align: right;
+  position: absolute;
+  left: 829.263px;
+  top: 3990px;
+  width: 173px;
+  height: 104px;
+  z-index: 6;
+}
+.whitelogo_jpg {
+  background-image: url("mccmenu-assets/whitelogo.jpg");
+  position: absolute;
+  left: 525px;
+  top: 3996px;
+  width: 150px;
+  height: 101px;
+  z-index: 5;
+}
+.address {
+  font-size: 18px;
+  font-family: "Arial";
+  color: #000000;
+  line-height: 1.3;
+  text-align: right;
+  position: absolute;
+  left: 820px;
+  top: 3994px;
+  width: 278px;
+  height: 11px;
+  z-index: 4;
+}
+.orangefooter_png {
+  background-color: rgb(255, 153, 51);
+  position: absolute;
+  left: 0px;
+  top: 3963px;
+  width: 1200px;
+  height: 200px;
+  z-index: 3;
+}
+
+.twitterwhitehover_png {
+  background-image: url("mccmenu-assets/twitterwhitehover.png");
+  position: absolute;
+  left: 629px;
+  top: 4115px;
+  width: 37px;
+  height: 30px;
+  z-index: 12;
+}
+.instagramwhitehover_png {
+  background-image: url("mccmenu-assets/instagramwhitehover.png");
+  position: absolute;
+  left: 543px;
+  top: 4115px;
+  width: 30px;
+  height: 31px;
+  z-index: 10;
+}
+.facebookwhitehover_png {
+  background-image: url("mccmenu-assets/facebookwhitehover.png");
+  position: absolute;
+  left: 594px;
+  top: 4115px;
+  width: 14px;
+  height: 30px;
+  z-index: 8;
+}
